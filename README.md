@@ -1,0 +1,1 @@
+End-to-end E-commerce Business Intelligence project using Power BI to transform raw transactional data into an interactive analytical dashboard, uncovering sales trends, customer patterns, product performance, profitability, and key KPIs for data-driven decision-making.
